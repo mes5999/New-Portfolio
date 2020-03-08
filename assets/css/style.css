@@ -80,36 +80,7 @@ h3 {
     line-height: 1.5em;
     font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif; 
 }
-.contact-section {
-    background-size: cover;
-    background-color: #ffffff;
-}
-.contact-form {
-    max-width: 960px;
-    margin: 5px;
-    padding: 5px;
-}
-.contact-form-text {
-    width: 200px;
-    box-sizing: border-box; 
-    margin: 10px 0;
-    box-shadow: 0 0 10 4px #34495e;
-    background: #ffffff;  
-}
-textarea.contact-form-text {
-    resize: none;
-    height: 120px;
-}
-.contact-form-btn {
-    float: left;
-    border: 0;
-    background: #4aaaa5;
-    color: #ffffff;
-    padding: 12px 50px;
-    border-radius: 20px;
-    cursor: pointer;
-    transition: 0.5s;
-}
+
 
 #main-footer{
 	background: #666666;
